@@ -1,0 +1,7 @@
+C:\Users\Will\Desktop\CIS 199\Program4\Program4\obj\Debug\Program4.csprojAssemblyReference.cache
+C:\Users\Will\Desktop\CIS 199\Program4\Program4\obj\Debug\Program4.csproj.CoreCompileInputs.cache
+C:\Users\Will\Desktop\CIS 199\Program4\Program4\bin\Debug\Program4.exe.config
+C:\Users\Will\Desktop\CIS 199\Program4\Program4\bin\Debug\Program4.exe
+C:\Users\Will\Desktop\CIS 199\Program4\Program4\bin\Debug\Program4.pdb
+C:\Users\Will\Desktop\CIS 199\Program4\Program4\obj\Debug\Program4.exe
+C:\Users\Will\Desktop\CIS 199\Program4\Program4\obj\Debug\Program4.pdb
